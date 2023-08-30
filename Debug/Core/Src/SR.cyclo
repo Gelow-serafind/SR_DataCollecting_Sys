@@ -1,0 +1,10 @@
+SR.c:11:7:speedSensorL	2
+SR.c:23:7:speedSensorR	2
+SR.c:36:6:UI	1
+SR.c:45:6:CAN1_Send_Test	2
+SR.c:59:7:Can_data_process	2
+SR.c:74:6:pushDataToCan	2
+SR.c:88:6:pushDataToCan_six	3
+SR.c:103:8:Six_axis_acceleration	1
+SR.c:111:8:Six_axis_ang_acceleration	1
+SR.c:119:8:Six_axis_angular	1

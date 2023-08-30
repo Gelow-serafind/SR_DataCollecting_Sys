@@ -1,0 +1,7 @@
+freertos.c:92:6:vApplicationGetIdleTaskMemory	1
+freertos.c:106:6:MX_FREERTOS_Init	1
+freertos.c:222:6:StartGetCommand	3
+freertos.c:255:6:StartCANGet	24
+freertos.c:377:6:StartADCGet	1
+freertos.c:408:6:Start_toComputer	9
+freertos.c:495:6:StartCANSend	1

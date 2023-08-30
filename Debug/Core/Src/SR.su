@@ -1,0 +1,10 @@
+../Core/Src/SR.c:11:7:speedSensorL	24	static
+../Core/Src/SR.c:23:7:speedSensorR	24	static
+../Core/Src/SR.c:36:6:UI	8	static
+../Core/Src/SR.c:45:6:CAN1_Send_Test	56	static
+../Core/Src/SR.c:59:7:Can_data_process	16	static
+../Core/Src/SR.c:74:6:pushDataToCan	32	static
+../Core/Src/SR.c:88:6:pushDataToCan_six	32	static
+../Core/Src/SR.c:103:8:Six_axis_acceleration	32	static
+../Core/Src/SR.c:111:8:Six_axis_ang_acceleration	32	static
+../Core/Src/SR.c:119:8:Six_axis_angular	32	static
